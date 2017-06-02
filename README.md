@@ -1,4 +1,4 @@
-# Airline-Seats-Allocating-Project
+# AirlineSeatsAllocatingProject
 
 Suppose you work for an airline, and your job is to write software algorithm to allocate seats when passengers
 make bookings. For each fight, you'll be given the seating configuration of the plane. Then as bookings
